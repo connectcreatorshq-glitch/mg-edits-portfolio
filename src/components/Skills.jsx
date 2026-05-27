@@ -31,7 +31,7 @@ const skills = [
   },
 
   {
-    title: "Minecraft Cinematics",
+    title: "Creative Editing",
     icon: MonitorPlay,
   },
 
