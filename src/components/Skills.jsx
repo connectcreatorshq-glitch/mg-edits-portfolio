@@ -31,7 +31,7 @@ const skills = [
   },
 
   {
-    title: "Creative Editing",
+    title: "Gaming Edits",
     icon: MonitorPlay,
   },
 

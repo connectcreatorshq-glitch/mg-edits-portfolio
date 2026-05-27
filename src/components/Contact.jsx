@@ -18,7 +18,7 @@ function Contact() {
 
         <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:justify-center">
           <a
-            href="mailto:yourmail@gmail.com"
+            href="mailto:mgedits406@gmail.com"
             className="rounded-full bg-[#8B5CF6] px-8 py-3 font-medium text-white transition-all duration-300 hover:scale-105 hover:shadow-[0_0_35px_rgba(139,92,246,0.35)]"
           >
             Email Me
