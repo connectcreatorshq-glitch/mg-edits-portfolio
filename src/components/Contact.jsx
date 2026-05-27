@@ -25,7 +25,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://www.instagram.com/orvicplayz/reels/"
+            href="https://www.instagram.com/_martians_gaming_18_/"
             target="_blank"
             rel="noreferrer"
             className="rounded-full border border-[#2A2045] px-8 py-3 font-medium text-white transition-all duration-300 hover:border-[#8B5CF6] hover:bg-[#151022]"
