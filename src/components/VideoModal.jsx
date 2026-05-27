@@ -1,5 +1,5 @@
-function VideoModal({ video, title, onClose }) {
-  if (!video) return null
+function VideoModal({ youtubeId, title, onClose }) {
+  if (!youtubeId) return null
 
   return (
     <div
@@ -21,14 +21,15 @@ function VideoModal({ video, title, onClose }) {
           {title}
         </h3>
 
-        <video
-          src={video}
-          controls
-          autoPlay
-          playsInline
-          preload="metadata"
-          className="max-h-[70vh] w-full rounded-2xl bg-black object-contain md:max-h-[75vh]"
-        />
+        <div className="aspect-video overflow-hidden rounded-2xl">
+          <iframe
+            className="h-full w-full"
+            src={`https://www.youtube.com/embed/${youtubeId}?autoplay=1`}
+            title={title}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
       </div>
     </div>
   )

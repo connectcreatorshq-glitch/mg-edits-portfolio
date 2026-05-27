@@ -73,10 +73,10 @@ function Projects() {
       </section>
 
       <VideoModal
-        video={selectedProject?.video}
+        youtubeId={selectedProject?.youtubeId}
         title={selectedProject?.title}
         onClose={() => setSelectedProject(null)}
-      />
+/>
     </>
   )
 }
