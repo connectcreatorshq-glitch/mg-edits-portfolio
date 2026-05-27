@@ -25,11 +25,44 @@ function Contact() {
           </a>
 
           <a
-            href="#"
+            href="https://www.instagram.com/orvicplayz/reels/"
+            target="_blank"
+            rel="noreferrer"
             className="rounded-full border border-[#2A2045] px-8 py-3 font-medium text-white transition-all duration-300 hover:border-[#8B5CF6] hover:bg-[#151022]"
           >
-            Discord
+            Instagram
           </a>
+        </div>
+
+        <div className="mt-8 space-y-3 text-[#B8B2D1]">
+          <p>
+            Email:{" "}
+            <a
+              href="mailto:mgedits406@gmail.com"
+              className="text-[#A855F7] hover:text-white"
+            >
+              mgedits406@gmail.com
+            </a>
+          </p>
+
+          <p>
+            Instagram:{" "}
+            <a
+              href="https://www.instagram.com/_martians_gaming_18_/"
+              target="_blank"
+              rel="noreferrer"
+              className="text-[#A855F7] hover:text-white"
+            >
+              @_martians_gaming_18_
+            </a>
+          </p>
+
+          <p>
+            Discord:{" "}
+            <span className="text-[#A855F7]">
+              mgedits18
+            </span>
+          </p>
         </div>
       </div>
     </section>
