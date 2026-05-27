@@ -4,7 +4,7 @@ export const projects = [
     category: "Storytelling Edit",
     description:
       "A cinematic Minecraft video focused on pacing, suspense, sound design, and emotional storytelling.",
-    youtubeId: "ASO6OUpjZgE",
+    youtubeId: "gETsG_mx6bk",
     thumbnail: "/images/thumbnail1.jpg",
   },
 
@@ -13,7 +13,7 @@ export const projects = [
     category: "Short Form",
     description:
       "Fast-paced short-form editing built for hooks, retention, clean subtitles, and punchy cuts.",
-    youtubeId: "ASO6OUpjZgE",
+    youtubeId: "8NLT-d-ymQc",
     thumbnail: "/images/thumbnail2.jpg",
   },
 
@@ -22,7 +22,7 @@ export const projects = [
     category: "Documentary Style",
     description:
       "A premium documentary-style edit with strong intro, dramatic buildup, and clean visual flow.",
-    youtubeId: "ASO6OUpjZgE",
+    youtubeId: "OOFgnB0bPNQ",
     thumbnail: "/images/thumbnail3.jpg",
   },
 
@@ -40,7 +40,7 @@ export const projects = [
     category: "Creator Content",
     description:
       "Engaging creator-focused edit designed for retention, clean storytelling, and smooth transitions.",
-    youtubeId: "ASO6OUpjZgE",
+    youtubeId: "0Sd3z_GNg2w",
     thumbnail: "/images/thumbnail5.jpg",
   },
 
@@ -49,7 +49,7 @@ export const projects = [
     category: "Trailer Style",
     description:
       "A cinematic trailer edit built with dramatic pacing, immersive visuals, and strong sound design.",
-    youtubeId: "ASO6OUpjZgE",
+    youtubeId: "yaKLKsFc-n4",
     thumbnail: "/images/thumbnail6.jpg",
   },
 ]
