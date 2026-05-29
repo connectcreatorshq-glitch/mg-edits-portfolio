@@ -1,16 +1,16 @@
 export const projects = [
   {
-    title: "Minecraft Cinematic Story",
-    category: "Storytelling Edit",
+    title: "I Played Slime RNG in Roblox",
+    category: "Showcase 01",
     description:
-      "A cinematic Minecraft video focused on pacing, suspense, sound design, and emotional storytelling.",
+      "A Roblox gameplay video featuring rare slime discoveries, lucky RNG moments, funny reactions, and fast-paced editing.",
     youtubeId: "gETsG_mx6bk",
     thumbnail: "/images/thumbnail1.jpg",
   },
 
   {
     title: "Shorts Retention Edit",
-    category: "Short Form",
+    category: "Showcase 02",
     description:
       "Fast-paced short-form editing built for hooks, retention, clean subtitles, and punchy cuts.",
     youtubeId: "8NLT-d-ymQc",
@@ -18,37 +18,37 @@ export const projects = [
   },
 
   {
-    title: "SMP Documentary Edit",
-    category: "Documentary Style",
+    title: "Gaming Intro",
+    category: "Showcase 03",
     description:
-      "A premium documentary-style edit with strong intro, dramatic buildup, and clean visual flow.",
+      "A gaming intro featuring cinematic visuals, dynamic transitions, impactful sound design, and a strong opening hook designed to capture viewer attention instantly.",
     youtubeId: "OOFgnB0bPNQ",
     thumbnail: "/images/thumbnail3.jpg",
   },
 
   {
-    title: "Gaming Montage Edit",
-    category: "Gaming Edit",
+    title: "Dattrax Gaming's Video",
+    category: "Showcase 04",
     description:
-      "High-energy gaming montage focused on cinematic cuts, sync edits, and impactful pacing.",
+      "A professionally edited gaming video for Dattrax Gaming featuring engaging pacing, smooth transitions, immersive sound design, and high-retention editing techniques.",
     youtubeId: "ASO6OUpjZgE",
     thumbnail: "/images/thumbnail4.jpg",
   },
 
   {
-    title: "Content Creator Edit",
-    category: "Creator Content",
+    title: "Noob TO Pro In Escape The Tsunami",
+    category: "Showcase 05",
     description:
-      "Engaging creator-focused edit designed for retention, clean storytelling, and smooth transitions.",
+      "A fast-paced Roblox gameplay video following a Noob-to-Pro journey, featuring engaging edits, funny moments, smooth pacing, and entertaining commentary.",
     youtubeId: "0Sd3z_GNg2w",
     thumbnail: "/images/thumbnail5.jpg",
   },
 
   {
-    title: "Cinematic Trailer Edit",
-    category: "Trailer Style",
+    title: "Noob TO Pro In Steal A Brainrot",
+    category: "Showcase 06",
     description:
-      "A cinematic trailer edit built with dramatic pacing, immersive visuals, and strong sound design.",
+      "An entertaining Roblox adventure showcasing progression, strategic gameplay, funny interactions, and dynamic editing designed to keep viewers engaged from start to finish.",
     youtubeId: "yaKLKsFc-n4",
     thumbnail: "/images/thumbnail6.jpg",
   },
